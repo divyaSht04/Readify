@@ -9,20 +9,26 @@ public class Users
     [Key]
     public Guid Id { get; set; }
     
-    [Column("full_name"), Required]
+    [Column("full_name"), MaxLength(100), Required]
     public string Name { get; set; }
     
-    [Column(name:"phone_number"), Required]
+    [Column(name:"phone_number"), MaxLength(100), Required]
     public string PhoneNumber { get; set; }
     
     [Column("date_of_birth"), Required]
     public DateTime DateOfBirth { get; set; }
     
-    [Column("email"), Required]
+    [Column("email"), MaxLength(100), Required]
     public string Email { get; set; }
     
     [Column("password"), Required]
     public string Password { get; set; }
+    
+    [Column("address"), MaxLength(100), Required]
+    public string? Address { get; set; }
+    
+    [Column("image"), MaxLength(100)]
+    public string? Image { get; set; }
 
     public Roles Role { get; set; } = Roles.USER;
     
