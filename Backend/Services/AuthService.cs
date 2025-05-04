@@ -1,4 +1,11 @@
-using Backend.Data; using Backend.DTO; using Backend.Model; using Microsoft.EntityFrameworkCore; using Microsoft.IdentityModel.Tokens; using System.IdentityModel.Tokens.Jwt; using System.Security.Claims; using System.Text;
+using Backend.Data;
+using Backend.DTO; 
+using Backend.Model; 
+using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens; 
+using System.IdentityModel.Tokens.Jwt; 
+using System.Security.Claims; using System.Text;
+using Backend.enums;
 
 
 namespace Backend.Services;
@@ -28,8 +35,8 @@ public class AuthService
             DateOfBirth = registerDto.DateOfBirth,
             Email = registerDto.Email,
             Password = passwordHash,
-            Address = registerDto.Address,
-            Image = registerDto.Image,
+          //  Address = registerDto.Address,
+           // Image = registerDto.Image,
             Role = Roles.USER,
             Created = DateTime.UtcNow,
             Updated = DateTime.UtcNow

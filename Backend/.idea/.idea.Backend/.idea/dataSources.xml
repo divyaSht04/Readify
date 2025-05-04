@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+<<<<<<< HEAD
     <data-source source="LOCAL" name="postgres@localhost" uuid="f0c8c9b1-b684-4746-a4f5-b08a88a0131e">
+=======
+    <data-source source="LOCAL" name="postgres@localhost" uuid="3311362c-c08f-4dca-bc9b-0efab42f3bcb">
+>>>>>>> 50da41a18a738d3efc2305281571f039fcdb1919
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+<<<<<<< HEAD
       <jdbc-additional-properties>
         <property name="com.intellij.clouds.kubernetes.db.host.port" />
         <property name="com.intellij.clouds.kubernetes.db.enabled" value="false" />
         <property name="com.intellij.clouds.kubernetes.db.resource.type" value="Deployment" />
         <property name="com.intellij.clouds.kubernetes.db.container.port" />
       </jdbc-additional-properties>
+=======
+>>>>>>> 50da41a18a738d3efc2305281571f039fcdb1919
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
