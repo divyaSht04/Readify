@@ -1,4 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Backend.Model;
@@ -35,4 +35,11 @@ public class Users
     public DateTime Created { get; set; } = DateTime.UtcNow;
     
     public DateTime Updated { get; set; } = DateTime.UtcNow;
+    
+    // JWT Refresh Token Properties
+    [Column("refresh_token")]
+    public string? RefreshToken { get; set; }
+    
+    [Column("refresh_token_expiry")]
+    public DateTime? RefreshTokenExpiryTime { get; set; }
 }

@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Third Year All folder\\dotNet\\SecondSem\\Coursework\\Backend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{760229AC-067C-4D62-AB9C-8712F3C1B385}|Backend.csproj|d:\\third year all folder\\dotnet\\secondsem\\coursework\\backend\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760229AC-067C-4D62-AB9C-8712F3C1B385}|Backend.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760229AC-067C-4D62-AB9C-8712F3C1B385}|Backend.csproj|d:\\third year all folder\\dotnet\\secondsem\\coursework\\backend\\utils\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760229AC-067C-4D62-AB9C-8712F3C1B385}|Backend.csproj|solutionrelative:utils\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +31,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Third Year All folder\\dotNet\\SecondSem\\Coursework\\Backend\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "D:\\Third Year All folder\\dotNet\\SecondSem\\Coursework\\Backend\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T05:46:39.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtUtils.cs",
+              "DocumentMoniker": "D:\\Third Year All folder\\dotNet\\SecondSem\\Coursework\\Backend\\Utils\\JwtUtils.cs",
+              "RelativeDocumentMoniker": "Utils\\JwtUtils.cs",
+              "ToolTip": "D:\\Third Year All folder\\dotNet\\SecondSem\\Coursework\\Backend\\Utils\\JwtUtils.cs",
+              "RelativeToolTip": "Utils\\JwtUtils.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAuwDgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T05:44:55.518Z",
+              "EditorCaption": ""
             }
           ]
         }

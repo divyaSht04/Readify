@@ -112,3 +112,12 @@ D:\Third Year All folder\dotNet\SecondSem\Coursework\Backend\bin\Debug\net8.0\ru
 D:\Third Year All folder\dotNet\SecondSem\Coursework\Backend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Third Year All folder\dotNet\SecondSem\Coursework\Backend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Third Year All folder\dotNet\SecondSem\Coursework\Backend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Third Year All folder\dotNet\SecondSem\Coursework\Backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Third Year All folder\dotNet\SecondSem\Coursework\Backend\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+D:\Third Year All folder\dotNet\SecondSem\Coursework\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Third Year All folder\dotNet\SecondSem\Coursework\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Third Year All folder\dotNet\SecondSem\Coursework\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Third Year All folder\dotNet\SecondSem\Coursework\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Third Year All folder\dotNet\SecondSem\Coursework\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Third Year All folder\dotNet\SecondSem\Coursework\Backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Third Year All folder\dotNet\SecondSem\Coursework\Backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
