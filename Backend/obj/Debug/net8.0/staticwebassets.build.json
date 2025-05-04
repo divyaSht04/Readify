@@ -1,20 +1,11 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "Hash": "n5xgAQ6zUIaWw0GRiBAnxS+iKccCeaRf+F00sBYdNq4=",
-=======
-  "Hash": "+8gz7rjoDcLSTM7Kwf5qkbapKXDd97xhyAb9pxhYrew=",
->>>>>>> 50da41a18a738d3efc2305281571f039fcdb1919
   "Source": "Backend",
   "BasePath": "_content/Backend",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-<<<<<<< HEAD
   "Assets": []
-=======
-  "Assets": [],
-  "Endpoints": []
->>>>>>> 50da41a18a738d3efc2305281571f039fcdb1919
 }

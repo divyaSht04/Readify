@@ -1,7 +1,3 @@
 ﻿<Project>
-<<<<<<< HEAD
   <Import Project="../build/Backend.props" />
-=======
-  <Import Project="..\build\Backend.props" />
->>>>>>> 50da41a18a738d3efc2305281571f039fcdb1919
 </Project>
